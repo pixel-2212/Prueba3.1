@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Vive el GPH</string>
+    <string name="title_activity_login">Iniciar Sesion</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña (opcional)</string>
+    <string name="action_sign_in">Ingresar o Registrarse</string>
+    <string name="action_sign_in_short">Ingresar</string>
+    <string name="error_invalid_email">El correo es invalido</string>
+    <string name="error_invalid_password">La contraseña es muy corta</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_field_required">Este campo es obligatorio</string>
+    <string name="permission_rationale">"Se necesita acceder a los contacto para completar el proveedor de email."
+    </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="menuPrincipal">Ciudades</string>
+    <string name="porvenir">Porvenir</string>
+    <string name="riogrande">Rio Grande</string>
+    <string name="talleres">Talleres</string>
+    <string name="eds">Estaciones de Servicio</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="direccion">Direccion</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="ubicacion">Ver en el Mapa</string>
+    <string name="telefono">Telefono</string>
+    <string name="precios">Precios</string>
+</resources>
